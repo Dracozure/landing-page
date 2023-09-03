@@ -1,2 +1,2 @@
-# landing-page
-Odin Project project
+# Checkerpeck's landing page
+Dedicated to Checkerpecker uwu
