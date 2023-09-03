@@ -189,7 +189,7 @@ blockquote .author {
     margin: 100px;
 }
 
-.call-to-action .ad-box {
+.call-to-action .box {
     display: flex;
     padding: 0 50px;
     background-color: #3882f6;
@@ -199,7 +199,7 @@ blockquote .author {
     flex-wrap: wrap;
 }
 
-.ad-box .details {
+.box .details {
     display: flex;
     flex-direction: column;
     max-width: 550px;
@@ -209,17 +209,17 @@ blockquote .author {
     color: #f9faf8;
 }
 
-.ad-box .details h4 {
+.box .details h4 {
     font-size: 23px;
 }
 
-.ad-box button {
+.box button {
     border: 3px #ffffff solid;
     border-radius: 15px;
     margin: 30px;
 }
 
-.ad-box .details > * {
+.box .details > * {
     margin: 0;
 }
 
