@@ -225,3 +225,15 @@ blockquote .author {
 
 /* || Footer Section */
 
+footer {
+    display: flex;
+    justify-content: center;
+    background-color: #1f2937;
+    text-align: center;
+}
+
+footer .copyright {
+    font-size: 20px;
+    color: #f9faf8;
+    padding: 20px;
+}
